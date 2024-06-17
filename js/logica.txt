@@ -1,0 +1,15 @@
+var:{
+    produto
+    quantidade
+    valorProduto
+}
+
+inicio:
+    receber a variavel produto
+    receber a variavel quantidade
+    receber a variavel valorProduto
+    ao clicar no botao adicionar, adicionar o produto no carrinho
+    mostrar no carrinho os produtos adicionados, o valor do produto por unidade multiplicado pela quantidade
+    somar os valores acima de todos os produtos
+    exibir o valor total da compra abaixo do carrinho.
+    ao clicar no botao limpar, limpar o carrinho.
